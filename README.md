@@ -21,14 +21,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-Azure Virtual Machine with Windows 10
-PHP Manager for IIS
-Rewrite Module
-PHP 7.3.8
-Visual C++ Redistributable
-MySQL 5.5.62
-osTicket v1.15.8
-HeidiSQL
+
+- Azure Virtual Machine with Windows 10
+- PHP Manager for IIS
+- Rewrite Module
+- PHP 7.3.8
+- Visual C++ Redistributable
+- MySQL 5.5.62
+- osTicket v1.15.8
+- HeidiSQL
 
 
 <h2>Installation Steps</h2>
