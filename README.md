@@ -36,11 +36,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### Step 1: Prepare the Virtual Machine
 <p>
+
 Click image of <a href="https://youtu.be/6dKINyY88mE" target="_blank">here</a> to watch the video.
 </p>
 <a href="https://youtu.be/6dKINyY88mE" target="_blank">
-    <img src="https://youtu.be/6dKINyY88mE/hqdefault.jpg" alt="Prepare the Virtual Machine Thumbnail" style="width:436px; height:245px;">
-</a>
+   
+![image](https://github.com/user-attachments/assets/667a9d98-9e7f-40cd-8e59-b1b9d98a5b40)
 
 ### Step 2: Enable IIS with CGI
 <p>
