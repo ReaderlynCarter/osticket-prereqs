@@ -63,10 +63,11 @@ Click image of <a href="https://www.youtube.com/watch?v=XW3_hLmNqw4" target="_bl
 
 ### Step 4: Configure IIS
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=8Af_7j-RluA" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/1a53JY0bQhU" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=8Af_7j-RluA" target="_blank">
-    <img src="https://img.youtube.com/vi/8Af_7j-RluA/hqdefault.jpg" alt="Configure IIS Thumbnail" style="width:436px; height:245px;">
+<a href="https://youtu.be/1a53JY0bQhU" target="_blank">
+
+![image](https://github.com/user-attachments/assets/eb9c8a31-5f83-475f-b2db-f138a2d27b90)
 </a>
 
 ### Step 5: Install osTicket
