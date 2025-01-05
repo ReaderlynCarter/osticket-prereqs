@@ -83,18 +83,20 @@ Click image of <a href="https://youtu.be/nauIJJ63xIs" target="_blank">here</a> t
 
 ### Step 6: Finalize osTicket Configuration
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=7MyEU8pb7wk" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/YVgKR3T3yP8" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=7MyEU8pb7wk" target="_blank">
-    <img src="https://img.youtube.com/vi/7MyEU8pb7wk/hqdefault.jpg" alt="Finalize osTicket Configuration Thumbnail" style="width:436px; height:245px;">
+<a href="https://youtu.be/YVgKR3T3yP8" target="_blank">
+
+![image](https://github.com/user-attachments/assets/b7b87c1c-2f65-41f8-a55e-f8cd2eac65c1)
 </a>
 
 ### Step 7: Configure Database
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=17qpEZ-EeKY" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/_tqUPJ1b5WM" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=17qpEZ-EeKY" target="_blank">
-    <img src="https://img.youtube.com/vi/17qpEZ-EeKY/hqdefault.jpg" alt="Configure Database Thumbnail" style="width:436px; height:245px;">
+<a href="https://youtu.be/_tqUPJ1b5WM" target="_blank">
+
+![image](https://github.com/user-attachments/assets/faa68ddf-26a6-4eb6-a9d3-743455bda596)
 </a>
 
 <h2>Accessing osTicket</h2>
@@ -105,5 +107,5 @@ Click image of <a href="https://www.youtube.com/watch?v=17qpEZ-EeKY" target="_bl
 
 <h2>Conclusion 🎉</h2>
 <p>
-Congratulations! You have successfully installed and configured osTicket. With this powerful help desk tool, you can efficiently manage support tickets and improve customer service workflows. Happy troubleshooting! 🚀
+Congratulations! You have successfully installed and configured osTicket. You should feel confident enough to navigate the help desk tools now, you can efficiently manage support tickets and improve customer service workflow. 🚀
 </p>
