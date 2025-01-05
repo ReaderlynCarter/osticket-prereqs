@@ -56,11 +56,12 @@ Click image of <a href="https://youtu.be/odx3TQzM-bY" target="_blank">here</a> t
 
 ### Step 3: Install Required Software
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=XW3_hLmNqw4" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/BMje8L5Fo4o" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=XW3_hLmNqw4" target="_blank">
-    <img src="https://img.youtube.com/vi/XW3_hLmNqw4/hqdefault.jpg" alt="Install Required Software Thumbnail" style="width:436px; height:245px;">
-</a>
+<a href="https://youtu.be/BMje8L5Fo4o" target="_blank">
+
+![install](https://github.com/user-attachments/assets/cc42a362-df2f-4fb4-9bc4-68503fa242c3)
+</a> 
 
 ### Step 4: Configure IIS
 <p>
