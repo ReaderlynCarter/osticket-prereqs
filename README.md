@@ -47,10 +47,11 @@ Click image of <a href="https://youtu.be/6dKINyY88mE" target="_blank">here</a> t
 
 ### Step 2: Enable IIS with CGI
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=QGpSbkNHU64" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/odx3TQzM-bY" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=QGpSbkNHU64" target="_blank">
-    <img src="https://img.youtube.com/vi/QGpSbkNHU64/hqdefault.jpg" alt="Enable IIS with CGI Thumbnail" style="width:436px; height:245px;">
+<a href="https://youtu.be/odx3TQzM-bY" target="_blank">
+
+![enable iss](https://github.com/user-attachments/assets/fca3fd54-a6c6-4f36-820a-3b21ef67d959)
 </a>
 
 ### Step 3: Install Required Software
