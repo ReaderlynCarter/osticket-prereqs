@@ -74,10 +74,11 @@ Click image of <a href="https://youtu.be/1a53JY0bQhU" target="_blank">here</a> t
 
 ### Step 5: Install osTicket
 <p>
-Click image of <a href="https://www.youtube.com/watch?v=YOsfQ_rJHeg" target="_blank">here</a> to watch the video.
+Click image of <a href="https://youtu.be/nauIJJ63xIs" target="_blank">here</a> to watch the video.
 </p>
-<a href="https://www.youtube.com/watch?v=YOsfQ_rJHeg" target="_blank">
-    <img src="https://img.youtube.com/vi/YOsfQ_rJHeg/hqdefault.jpg" alt="Install osTicket Thumbnail" style="width:436px; height:245px;">
+<a href="https://youtu.be/nauIJJ63xIs" target="_blank">
+  
+![image](https://github.com/user-attachments/assets/fb4f8e39-842c-467c-bd38-819aa6bb3938)
 </a>
 
 ### Step 6: Finalize osTicket Configuration
