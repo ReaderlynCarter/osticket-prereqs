@@ -81,16 +81,7 @@ Click image of <a href="https://youtu.be/nauIJJ63xIs" target="_blank">here</a> t
 ![image](https://github.com/user-attachments/assets/fb4f8e39-842c-467c-bd38-819aa6bb3938)
 </a>
 
-### Step 6: Finalize osTicket Configuration
-<p>
-Click image of <a href="https://youtu.be/YVgKR3T3yP8" target="_blank">here</a> to watch the video.
-</p>
-<a href="https://youtu.be/YVgKR3T3yP8" target="_blank">
-
-![image](https://github.com/user-attachments/assets/b7b87c1c-2f65-41f8-a55e-f8cd2eac65c1)
-</a>
-
-### Step 7: Configure Database
+### Step 6: Configure Database
 <p>
 Click image of <a href="https://youtu.be/_tqUPJ1b5WM" target="_blank">here</a> to watch the video.
 </p>
